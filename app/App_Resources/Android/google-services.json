@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "341051246357",
+    "firebase_url": "https://myhone-29038.firebaseio.com",
+    "project_id": "myhone-29038",
+    "storage_bucket": "myhone-29038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341051246357:android:459163bd31908909",
+        "android_client_info": {
+          "package_name": "org.nativescript.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341051246357-jrde5cdn9rr7bdc6s1gfal4bd78iq2hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCpJH9XpqveLZNmWLqiqz8MTOBvL-gC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
